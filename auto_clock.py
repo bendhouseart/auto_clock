@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import smtplib, ssl, sys, dotenv, os
 from email import message
 from datetime import datetime
